@@ -32,3 +32,6 @@ Creare un array di oggetti, ogni oggetto ha 3 valori: nome, ruolo, foto
 
 **Milestone 1**
 crare un ciclo for per aprire l'array e all'interno di ogni ciclo creare un ciclo for in per esaminare l'oggetto 
+
+**Milestone 2/ bonus1/ bonus2**
+inserire nel ciclo for in il template per inserirlo nel Dom 
